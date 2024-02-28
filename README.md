@@ -22,5 +22,4 @@ This tool is made with some of the classical algorithms, it shows the encryption
 The application doesnt store any of the files you use, it's all locally on your machine.
 
 <h2>Demo</h2>
-https://github.com/dana-akesh/Encryption_Algorithms/assets/86303193/1ada6561-98a1-4139-85be-f30865577023
-
+[Untitledvideo-MadewithClipchamp1-ezgif com-crop](https://github.com/dana-akesh/Encryption_Algorithms/assets/86303193/7d720ba3-c67a-4df6-85e8-4ed93780a11e)
