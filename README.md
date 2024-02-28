@@ -11,11 +11,22 @@ This tool is made with some of the classical algorithms, it shows the encryption
 <h2>Usage</h2>
 <h4>Encryption:</h4>
 <ol>
-  <li> Select the desired algorithm to encrypt or decrypt with. </li>
+  <li> Select the desired algorithm to encrypt with. </li>
   <li> Input the value of the key to encrypt with.</li>
   <li> Either enter a string input to the specifed text-box in the javaFX user interface (UI).</li>
   <li> Or you choose a file from your computer as an input and it has in it the plain-text. </li>
-  <li> Select the output file that will have the encrypted text in it. </li>
+  <li> Select the output file that will have the encrypted text in it (cipher-text). </li>
+  <li>Click on the "Encrypt" button</li>
+</ol>
+
+<h4>Decryption:</h4>
+<ol>
+  <li> Select the desired algorithm to decrypt with. </li>
+  <li> Input the value of the key to decrypt with.</li>
+  <li> Either enter a string input to the specifed text-box in the javaFX user interface (UI).</li>
+  <li> Or you choose a file from your computer as an input and it has in it the encrypted text (cipher-text). </li>
+  <li> Select the output file that will have the original text in it. </li>
+  <li>Click on the "decrypt" button</li>
 </ol>
 
 <h2>Security</h2>
